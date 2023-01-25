@@ -10,7 +10,7 @@ GlitchCam is a simple glitch camera. Take pictures with amazing glitch effects w
 * AppStore 2016/10 - 2020/07, [No.1 on Sticker@Appstore.jp at 2018/06/09](https://twitter.com/atushi/status/1005158355998928897)  
 * [LineStore](https://store.line.me/stickershop/product/1237616/ja) 2016/01 -
 ## Maskmensan2 (Sticker) ##
-* AppStore 2018/01 - 2020/07, [Featured on Recommend-Sticker@Appstore.jp]([https://twitter.com/atushi/status/1005158355998928897](https://twitter.com/atushi/status/954373156109611008))  
+* AppStore 2018/01 - 2020/07, [Featured on Recommend-Sticker@Appstore.jp](https://twitter.com/atushi/status/954373156109611008)  
 * [LineStore](https://store.line.me/stickershop/product/1896852) 2018/01 -  
 ## Mining Machine Programming (Analog Game, 2020/02) ##
 no distributed. This is an analog game with a programming motif.
